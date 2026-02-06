@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-genai
+instructor
+pydantic
+python-dotenv
+tenacity
+pandas
